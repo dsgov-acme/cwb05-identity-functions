@@ -1,5 +1,5 @@
-project                  = "cwb05-prod"
+project                  = "cwb05-prod-6c2a"
 project_prefix           = "cwb05"
-region                   = "DEFAULT_REGION"
+region                   = ""
 environment              = "prod"
 user_management_base_url = "https://api.cwb05.dsgov.demo.nuvalence.io/um"
